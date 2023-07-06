@@ -1,0 +1,19 @@
+span.legend_text-lbl {
+    font-size: 20px;
+    /* margin-top: -10px; */
+    /* display: block; */
+    margin: 0;
+    padding: 0;
+}
+
+.img-full {
+    width: 320px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+.team-card {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
